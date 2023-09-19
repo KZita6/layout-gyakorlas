@@ -1,0 +1,22 @@
+.container1, .container2{
+    width: 800px;
+    height: 100px;
+    border: 3px solid blue;
+    display:flex;
+    list-style-type:none;
+    align-items: center;
+    padding: 0;
+    justify-content: space-around;
+}
+.kek, .lila{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
+
+.container2{
+    background-color: orangered;
+}
+.lila{
+    background-color: purple;
+}
